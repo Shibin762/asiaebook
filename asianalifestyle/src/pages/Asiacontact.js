@@ -19,7 +19,7 @@ const Asiacontact = () => {
               <FaPhone className="contact-icon" />
               <span>+1234567890</span>
             </li>
-            {/* Add more contact details as needed */}
+            {/* more contact details as needed */}
           </ul>
           <div className="contact-extra">
             <p>Follow us on social media for updates:</p>
